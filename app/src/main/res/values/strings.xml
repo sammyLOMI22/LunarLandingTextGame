@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lunerLandingTextGame</string>
+    <string name="speed">Speed</string>
+    <string name="Altitude">Altitude</string>
+    <string name="fuel">Fuel</string>
+
+    <string name="impact">Impact</string>
+    <string name="previous_burn">Previous Burn</string>
+</resources>
